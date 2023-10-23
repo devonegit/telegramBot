@@ -30,3 +30,4 @@ package-lock.json  # Add this line
 *.sln
 *.sw?
 .env
+*package-lock.json
